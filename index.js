@@ -9,7 +9,7 @@ app.get('/apple', (request, response) => {
 
   console.log("hey we got a request! yay.");
 
-  response.send( "hi from aws and stuff okaokaya" );
+  response.send( "hi from aws and stuff okaokaya test etset asdfasdf" );
 
 })
 
